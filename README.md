@@ -1,1 +1,2 @@
-# setup-scripts
+bertux-manifest
+===============
